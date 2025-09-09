@@ -11,8 +11,11 @@
 - Goal number of steps: The user's goal for number of steps to take each day
 - Average heart rate: The user's average heart rate over the last 24 hours
  */
-
-
+var name = "Udochi"
+print(name + " Names can change")
+var age = 17
+var steps = 4500
+let avgHeartRate = 95
 /*:
  Now go back and add a line after each constant or variable declaration. On those lines, print a statement explaining why you chose to declare the piece of information as a constant or variable.
  
